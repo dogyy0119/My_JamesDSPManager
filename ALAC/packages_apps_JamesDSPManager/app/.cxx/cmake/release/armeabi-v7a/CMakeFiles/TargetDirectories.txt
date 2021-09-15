@@ -1,0 +1,11 @@
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsamplerate/CMakeFiles/rebuild_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsamplerate/CMakeFiles/samplerate.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsamplerate/CMakeFiles/edit_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsndfile/CMakeFiles/sndfile.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsndfile/CMakeFiles/edit_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/libsndfile/CMakeFiles/rebuild_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/main/CMakeFiles/jamesDSPImpulseToolbox.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/main/CMakeFiles/edit_cache.dir
+D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/armeabi-v7a/main/CMakeFiles/rebuild_cache.dir

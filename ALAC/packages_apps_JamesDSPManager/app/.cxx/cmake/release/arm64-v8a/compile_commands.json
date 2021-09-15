@@ -1,0 +1,553 @@
+[
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsamplerate\\CMakeFiles\\samplerate.dir\\samplerate.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\samplerate.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\samplerate.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsamplerate\\CMakeFiles\\samplerate.dir\\src_linear.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_linear.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_linear.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsamplerate\\CMakeFiles\\samplerate.dir\\src_sinc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_sinc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_sinc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsamplerate\\CMakeFiles\\samplerate.dir\\src_zoh.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_zoh.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsamplerate\\src_zoh.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\aiff.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\aiff.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\aiff.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\alac.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\alac.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\alac.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\alaw.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\alaw.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\alaw.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\audio_detect.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\audio_detect.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\audio_detect.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\au.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\au.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\au.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\avr.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\avr.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\avr.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\broadcast.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\broadcast.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\broadcast.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\caf.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\caf.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\caf.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\cart.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\cart.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\cart.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\chanmap.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\chanmap.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\chanmap.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\chunk.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\chunk.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\chunk.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\command.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\command.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\command.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\common.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\common.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\common.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\dither.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dither.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dither.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\double64.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\double64.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\double64.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\dwd.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dwd.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dwd.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\dwvw.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dwvw.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\dwvw.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\file_io.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\file_io.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\file_io.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\flac.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\flac.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\flac.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\float32.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\float32.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\float32.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\g72x.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\g72x.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\g72x.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\gsm610.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\gsm610.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\gsm610.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\htk.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\htk.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\htk.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\id3.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\id3.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\id3.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ima_adpcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ima_adpcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ima_adpcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ima_oki_adpcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ima_oki_adpcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ima_oki_adpcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ircam.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ircam.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ircam.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\mat4.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mat4.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mat4.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\mat5.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mat5.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mat5.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\mpc2k.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mpc2k.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\mpc2k.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ms_adpcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ms_adpcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ms_adpcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\nist.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\nist.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\nist.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\nms_adpcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\nms_adpcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\nms_adpcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ogg.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ogg_opus.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg_opus.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg_opus.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ogg_vorbis.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg_vorbis.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ogg_vorbis.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\paf.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\paf.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\paf.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\pcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\pcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\pcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\pvf.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\pvf.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\pvf.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\raw.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\raw.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\raw.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\rf64.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\rf64.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\rf64.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\rx2.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\rx2.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\rx2.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\sd2.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sd2.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sd2.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\sds.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sds.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sds.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\sndfile.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sndfile.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\sndfile.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\strings.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\strings.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\strings.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\svx.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\svx.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\svx.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\txw.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\txw.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\txw.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ulaw.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ulaw.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ulaw.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\voc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\voc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\voc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\vox_adpcm.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\vox_adpcm.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\vox_adpcm.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\w64.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\w64.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\w64.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\wav.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wav.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wav.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\wavlike.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wavlike.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wavlike.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\wve.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wve.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\wve.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\xi.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\xi.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\xi.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\ag_dec.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ag_dec.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ag_dec.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\ag_enc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ag_enc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ag_enc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\alac_decoder.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\alac_decoder.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\alac_decoder.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\alac_encoder.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\alac_encoder.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\alac_encoder.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\ALACBitUtilities.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ALACBitUtilities.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\ALACBitUtilities.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\dp_dec.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\dp_dec.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\dp_dec.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\dp_enc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\dp_enc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\dp_enc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\matrix_dec.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\matrix_dec.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\matrix_dec.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\ALAC\\matrix_enc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\matrix_enc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\ALAC\\matrix_enc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\G72x\\g72x.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g72x.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g72x.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\G72x\\g721.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g721.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g721.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\G72x\\g723_16.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_16.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_16.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\G72x\\g723_24.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_24.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_24.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\G72x\\g723_40.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_40.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\G72x\\g723_40.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\add.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\add.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\add.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\code.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\code.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\code.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\decode.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\decode.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\decode.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\gsm_create.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_create.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_create.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\gsm_decode.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_decode.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_decode.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\gsm_destroy.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_destroy.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_destroy.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\gsm_encode.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_encode.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_encode.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\gsm_option.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_option.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\gsm_option.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\long_term.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\long_term.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\long_term.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\lpc.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\lpc.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\lpc.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\preprocess.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\preprocess.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\preprocess.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\rpe.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\rpe.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\rpe.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\short_term.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\short_term.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\short_term.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -ID:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/jni/libsndfile/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o libsndfile\\CMakeFiles\\sndfile.dir\\GSM610\\table.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\table.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\libsndfile\\GSM610\\table.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNDEBUG -DjamesDSPImpulseToolbox_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -ffunction-sections -fdata-sections -Ofast -ftree-vectorize -o main\\CMakeFiles\\jamesDSPImpulseToolbox.dir\\JdspImpResToolbox.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\JdspImpResToolbox.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\JdspImpResToolbox.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNDEBUG -DjamesDSPImpulseToolbox_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -ffunction-sections -fdata-sections -Ofast -ftree-vectorize -o main\\CMakeFiles\\jamesDSPImpulseToolbox.dir\\AutoConvolver.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\AutoConvolver.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\AutoConvolver.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNDEBUG -DjamesDSPImpulseToolbox_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -ffunction-sections -fdata-sections -Ofast -ftree-vectorize -o main\\CMakeFiles\\jamesDSPImpulseToolbox.dir\\kissfft\\kiss_fft.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\kissfft\\kiss_fft.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\kissfft\\kiss_fft.c"
+},
+
+{
+  "directory": "D:/gitlab_workspace/chuxing/music/packages_apps_JamesDSPManager/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\android-sdk-windows\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android26 --gcc-toolchain=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNDEBUG -DjamesDSPImpulseToolbox_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -ffunction-sections -fdata-sections -Ofast -ftree-vectorize -o main\\CMakeFiles\\jamesDSPImpulseToolbox.dir\\kissfft\\kiss_fftr.c.o   -c D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\kissfft\\kiss_fftr.c",
+  "file": "D:\\gitlab_workspace\\chuxing\\music\\packages_apps_JamesDSPManager\\app\\jni\\main\\kissfft\\kiss_fftr.c"
+}
+]

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/customize_1_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义1" />
+
+        <Button
+            android:id="@+id/customize_2_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义2" />
+
+        <Button
+            android:id="@+id/customize_3_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义3" />
+
+        <Button
+            android:id="@+id/customize_4_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义4" />
+
+        <Button
+            android:id="@+id/customize_5_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义5" />
+
+        <Button
+            android:id="@+id/customize_6_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="自定义6" />
+
+        <Button
+            android:id="@+id/equalizer_unsave_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="不保存" />
+
+        <Button
+            android:id="@+id/equalizer_save_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="5dip"
+            android:background="@drawable/btn_bg_red"
+            android:gravity="center"
+            android:text="保存" />
+
+    </LinearLayout>
+
+    <james.dsp.preference.EqualizerSurface
+        android:id="@+id/MyFrequencyResponse"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

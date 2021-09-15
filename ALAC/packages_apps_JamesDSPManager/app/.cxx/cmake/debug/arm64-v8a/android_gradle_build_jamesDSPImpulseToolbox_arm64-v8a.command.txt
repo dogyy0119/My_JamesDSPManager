@@ -1,0 +1,7 @@
+Executable : D:\android-sdk-windows\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\gitlab_workspace\chuxing\music\packages_apps_JamesDSPManager\app\.cxx\cmake\debug\arm64-v8a
+jamesDSPImpulseToolbox
+jvmArgs : 
+

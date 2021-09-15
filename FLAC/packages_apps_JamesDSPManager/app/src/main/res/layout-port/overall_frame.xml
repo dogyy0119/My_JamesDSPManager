@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Switch
+                    android:id="@+id/switch_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity = "center"
+                    android:text="凯音音效" />
+
+                <Button
+                    android:id="@+id/save_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_nor_down"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="保存" />
+
+                <Button
+                    android:id="@+id/save_as_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_nor_down"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="文件保存" />
+
+
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/overall_textview"
+                    android:layout_width="80dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity = "center"
+                    android:gravity="center"
+                    android:text="全局声场" />
+
+                <Button
+                    android:id="@+id/stand_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="标准" />
+
+                <Button
+                    android:id="@+id/surround_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="环绕"/>
+
+                <Button
+                    android:id="@+id/cinema_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="影院" />
+
+                <Button
+                    android:id="@+id/little_concert_hall_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="小型音乐厅" />
+
+                <Button
+                    android:id="@+id/middle_concert_hall_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="中型音乐厅" />
+
+                <Button
+                    android:id="@+id/large_concert_hall_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="大型音乐厅" />
+
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/style_textview"
+                    android:layout_width="78dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity = "center"
+                    android:gravity="center"
+                    android:text="风  格" />
+
+                <Button
+                    android:id="@+id/stand_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="标准" />
+
+                <Button
+                    android:id="@+id/self_define_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="自定义" />
+
+                <Button
+                    android:id="@+id/jazz_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="爵士" />
+
+                <Button
+                    android:id="@+id/popular_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="流行" />
+
+                <Button
+                    android:id="@+id/classic_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="古典" />
+
+                <Button
+                    android:id="@+id/hip_hop_music_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dip"
+                    android:background="@drawable/btn_bg_red"
+                    android:gravity="center"
+                    android:layout_gravity = "center"
+                    android:text="Hip-Hop" />
+
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <james.dsp.preference.EqualizerSurface
+                    android:id="@+id/all_equalizer_surface"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    tools:ignore="MissingClass" />
+            </LinearLayout>
+
+        </TableRow>
+    </TableLayout>
+
+</FrameLayout>
